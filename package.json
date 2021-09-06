@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/apolkingg8/git-release-test.git",
   "author": "apolkingg8 <apolkingg8@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "semantic-release": "^17.4.7",
+    "semantic-release-gitmoji": "^1.3.4"
+  }
 }
